@@ -1,5 +1,4 @@
-# refugio_felinos_uml
-## Diagrama de Clases UML de mi Refugio de Felino
-Se desea un novio masajista. ¿como encuentro uno , maximo?
-gracias de antemano.
-un saludo, yara
+# Refugio Felino
+Se desea diseñar un diagrama de clases en UML que recoja la información de una empresa dedicada al refugio y adopción de diferentes tipos de felinos.
+La información está estructurada de la siguiente manera:
+
