@@ -15,3 +15,5 @@ La información está estructurada de la siguiente manera:
 
 ## Solución al problema propuesto:
 ![image](https://user-images.githubusercontent.com/114931679/224363620-1066d3b9-9a84-4b21-b965-aebf5b67624f.png)
+***Note: Cada atributo tiene sus getters y setters correspondientes, pero para no abarrotar el diagrama de clases se muestran solamente unos pocos.**
+
